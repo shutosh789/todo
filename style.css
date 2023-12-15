@@ -28,7 +28,7 @@ ul {
 }
 
 li:hover{
-	color:red;
+	color:blue;
 	margin: 4%;
 	transition: 1.5s ease;
 	cursor: pointer;
