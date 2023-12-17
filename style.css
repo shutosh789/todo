@@ -1,9 +1,10 @@
 * {
-	padding: 10px;
-	margin: 20px;
-	box-sizing:border-box;
-	font-family: calibri;
-	background-color:blue;
+	/*padding: 10px; */
+     /* margin: 20px;  */
+	box-sizing: border-box;
+	font-family: cursive;
+	background-color:#4d94ff;
+
 }
 
 body {
@@ -11,30 +12,28 @@ body {
 	justify-content:center;
 	align-items:center;
 	height: 100vh;
-	background color: white;
+	background: color #f2f2f2;
 	overflow: auto;
-	
 }
 
 h1{
 	text-align: center;
-	margin: 7%;
-	font-size: 5rem;
+	margin: 5%;
+	font-size: 3rem;
 	text-decoration: underline;
 }
 
 ul {
 	text-align: left;
 	padding-left: 10%;
-	padding: 8%;
-	font-size: 4rem;
+	padding: 7%;
+	font-size: 2rem;
 	list-style: circle;
 }
 
 li:hover{
 	color:red;
-	margin: 6%;
+	margin: 4%;
 	transition: 1.5s ease;
 	cursor: pointer;
 }
-
